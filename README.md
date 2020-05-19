@@ -1,1 +1,1 @@
-Run `start`
+Run `npm run start`
