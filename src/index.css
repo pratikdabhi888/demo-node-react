@@ -1,0 +1,27 @@
+@font-face {
+  font-family: Wigrum;
+  src: url('/fonts/wigrum-medium-webfont.eot');
+  src: url('/fonts/wigrum-medium-webfont.eot?#iefix') format('embedded-opentype'),
+  url('/fonts/wigrum-medium-webfont.woff2') format('woff2'),
+  url('/fonts/wigrum.otf') format('otf'),
+  url('/fonts/wigrum-bold.otf') format('otf'),
+  url('/fonts/wigrum-light.otf') format('otf'),
+  url('/fonts/wigrum-black.otf') format('otf'),
+  url('/fonts/wigrum-medium-webfont.woff') format('woff'),
+  url('/fonts/wigrum-medium-webfont.ttf') format('truetype'),
+  url('/fonts/wigrum-medium-webfont.svg#wigrummedium') format('svg');
+  font-weight: normal;
+  font-style: normal;
+
+}
+body {
+  margin: 0;
+  font-family: Wigrum;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
